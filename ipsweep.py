@@ -1,3 +1,5 @@
+# Ping sweep is a technique that can be used to find out which hosts are alive in a network for a defined IP range. Network admins who allow ICMP are vulnerable to ICMP based attacks.
+
 import subprocess
 import datetimeimport re
 import argparse

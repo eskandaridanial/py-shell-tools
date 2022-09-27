@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 
+# this script is a simple http server
+
 import posixpath
 import argparse
 import urllib

@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Ping sweep is a technique that can be used to find out which hosts are alive in a network for a defined IP range. Network admins who allow ICMP are vulnerable to ICMP based attacks.
-# visit https://www.javatpoint.com/icmp-protocol for ICMP details 
 
 if [[ $1 == "" ]]; then
 	echo "you forgot an ip address"

@@ -1,5 +1,7 @@
 #!/usr/bin/bof.py
 
+# buffer overflow attack to a specific ip address
+
 import sys , socket
 from time import sleep
 

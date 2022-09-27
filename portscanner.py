@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# this script finds open ports on a network ip range
+
 import sys
 import socket
 from datetime import datetime
